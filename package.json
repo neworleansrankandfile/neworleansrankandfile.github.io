@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/neworleansrankandfile/neworleansrankandfile.github.io#readme",
   "dependencies": {
-    "@11ty/eleventy": "^3.1.8"
+    "@11ty/eleventy": "^3.1.8",
+    "bootstrap": "^6.0.0-alpha.1"
   }
 }
